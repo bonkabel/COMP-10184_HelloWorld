@@ -1,5 +1,5 @@
 #include <Arduino.h>
-
+// Author: Amy Abel, 000749165
 unsigned long myTime;
 
 void setup() {
